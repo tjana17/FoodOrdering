@@ -1,0 +1,29 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "name": "All",
+      "image": "all_cat"
+    },
+    {
+      "id": 2,
+      "name": "Burger",
+      "image": "burger"
+    },
+    {
+      "id": 3,
+      "name": "Pizza",
+      "image": "pizza"
+    },
+    {
+      "id": 4,
+      "name": "Drinks",
+      "image": "drink"
+    },
+    {
+      "id": 5,
+      "name": "Fruits",
+      "image": "fruits"
+    }
+  ]
+}
